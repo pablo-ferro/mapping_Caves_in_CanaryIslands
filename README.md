@@ -1,6 +1,6 @@
 # Mapping Caves in Canary Islands
 
-## Geographic data visualization from beautiful places in Spanish island Palma in the Canary Archipielago
+## Geographic data visualization from beautiful places in Spanish island Palma in the Canary Archipelago
 
 First of all, data obtained from https://datos.gob.es/ needed a cleaning process by removing empty and useless columns and transforming column names.
 
